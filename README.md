@@ -19,6 +19,10 @@ just look at my assets folder and u will see "hoyo_crack.png"
 
 What is this project? Describe the interactive experience: what kind of game/experience it is, what the player is trying to do, and what makes it interesting. (2 to 4 sentences.)
 
+My project is a obby style game with a collection motive so you can finish travelling the small 3 levels of teh 
+Cracky-overse/Hoyo-Crack. Each lv i sbased off a different Hoyoverse game with specific items & exits that represent the game, (for ex. trashcan & ticket for lv1 to represent Honkai StarRail. The goal of teh game is to collect the ietms in each stage to complete the game, if you dont collect them all, teh game will not finish. The game is relatively simple and calm as there is also soothing background music to make the feeling of teh game cute and nice. I tried to make it harder but through eah level so it gets more interesting, but i can only do so much as a novice in programming lol. 
+Make sure to have fun & enjoy!
+
 ## How to Run
 
 1. Make sure you have **Python 3.13** installed.
@@ -74,8 +78,8 @@ List any images, sounds, fonts, or other files in the `assets/` folder, and wher
 State which code from class you used as a starting point, as required by the guardrails:
 
 - Started from `[12_pygame_collision.py]` - used for [class player, platforms, def main, levels].
-- [Lvs 2 & 3 were copied & pasted and edited with dif placements, pictures, functions from both me & ai]
-- [class collectibles was from ai to help me as i didnt know what extra coding i needed to do]
+- Lvs 2 & 3 were copied & pasted and edited with dif placements, pictures, functions from both me & ai
+- class collectibles was from ai to help me as i didnt know what extra coding i needed to do
 - Then i used teh example '[14_pygame_screens.py]' - used for teh menu, game function, and outro, both form me and ai
 - '[13_pyagme_sounds.py]' - used to add backgroudn music, at firts didnt works o i asked ai to help and i added one lien fo code taht loops it
 - [def main] inisde teh main coding, i did edit teh title of teh game when u run teh program, & chnaged some while true statements
@@ -100,7 +104,7 @@ You could use the table below or just list using bullets.
 
 ## Known Bugs / Limitations
 
-- Tired to make it when you pick an itemup, it'd make teh vne boom sound but it didnt work
+- Tired to make it when you pick an itemup, it'd make teh vine boom sound but it didnt work
 
 ## Possible Future Improvements
 
